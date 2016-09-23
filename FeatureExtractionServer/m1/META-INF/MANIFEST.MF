@@ -1,0 +1,39 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_07 (The FreeBSD Foundation)
+
+Name: res/layout/main.xml
+SHA1-Digest: JQ8vd3DTDG9sh1J4MRkR1qmhijs=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 5sOzFIXQlRbNemMvAdiwLyURzcM=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: piYPBP9Y0ZKJZgfHwtIf1ID2BPE=
+
+Name: assets/rools.txt
+SHA1-Digest: XDpl4pzUZNr4odjIFEgS2mh4heI=
+
+Name: res/layout/result.xml
+SHA1-Digest: QJIAlXPFO0oGRqOX7+6tlQKvNaU=
+
+Name: res/drawable/logo.png
+SHA1-Digest: piYPBP9Y0ZKJZgfHwtIf1ID2BPE=
+
+Name: assets/conf.txt
+SHA1-Digest: 5H9lRWNtQ3g20jSTgw352Gz7wt0=
+
+Name: res/layout/rools.xml
+SHA1-Digest: Ut9PmmoPRGEj8TTrLWSIAOcHj5o=
+
+Name: resources.arsc
+SHA1-Digest: gC8SxD24FWhuxOF+ocMIZ14RMiI=
+
+Name: classes.dex
+SHA1-Digest: TGkRwdAuf66PljEUTqVJuxwdwIs=
+
+Name: res/drawable/bluebutton.xml
+SHA1-Digest: E7lANlXDAKRiDBDUgQ+uQ23A4TU=
+
+Name: res/drawable/background.xml
+SHA1-Digest: sRNe/i3dVkjN0LlFUIHAc3hBgfM=
+
