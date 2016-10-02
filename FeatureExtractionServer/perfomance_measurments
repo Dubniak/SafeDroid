@@ -1,0 +1,16 @@
+get_PKG_From_Dex:1.4552 sec.
+get_API_From_Dex:0.1256 sec.
+getFeatureVectorForFile:1.4626 sec.
+server:1.4652 sec.
+get_PKG_From_Dex:1.5311 sec.
+get_API_From_Dex:0.1304 sec.
+getFeatureVectorForFile:1.5343 sec.
+server:1.5383 sec.
+get_PKG_From_Dex:1571.0684 sec.
+get_API_From_Dex:19.3973 sec.
+getFeatureVectorForFile:1571.1048 sec.
+server:1571.2396 sec.
+get_PKG_From_Dex:1788.9946 sec.
+get_API_From_Dex:11.2302 sec.
+getFeatureVectorForFile:1789.0778 sec.
+server:1789.2389 sec.

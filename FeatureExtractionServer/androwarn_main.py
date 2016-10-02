@@ -39,6 +39,10 @@ sys.path.append(PATH_INSTALL)
 #from androwarn.report.report import *
 from androwarn.analysis.analysis import *
 
+#set metrics
+from timeit import default_timer as timer
+
+
 # Logger definition
 log = logging.getLogger('log')
 log.setLevel(logging.ERROR)
