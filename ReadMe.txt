@@ -1,3 +1,8 @@
+Dependencies : 
+Flask framework http://flask.pocoo.org/ 
+Python 
+
+
 1. cd into the FeatureExtraction directory. Start the python server with the command :
 python server.py runserver -d
 
