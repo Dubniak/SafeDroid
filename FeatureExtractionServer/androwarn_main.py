@@ -38,7 +38,7 @@ sys.path.append(PATH_INSTALL)
 #from androwarn.util.util import *
 #from androwarn.report.report import *
 from androwarn.analysis.analysis import *
-
+#only the last one is uncommented
 #set metrics
 from timeit import default_timer as timer
 
@@ -139,10 +139,23 @@ def get_PKG_From_Dex(dex):
 def get_API_From_Dex(dex,pkg):
 	try:
 		d, x = AnalyzeDex(dex)
+		#x = AnalyzeDex(dex)
 	except:
 		raise
 	api_result = generate_API_List(x,pkg)
 	return api_result
+
+def get_API_From_Dex_Testing(dex):
+	try:
+		d,x = AnalyzeDex(dex)
+	except:
+		raise
+	#api_result = generate_API_List(x,pkg)
+	return d,x
+
+
+def get_API_From_Dex_Part_II(x, pkg):
+	return generate_API_List(x,pkg)
 
 
 

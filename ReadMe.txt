@@ -33,3 +33,5 @@ kill -9 PID
 
 
 The API defined in (2) takes a Dex file as input and returns the feature categories that make an application malicious.
+
+
