@@ -7,16 +7,12 @@ package wekaclassifier;
 
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
-import java.util.Map;
 import java.util.Random;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -42,15 +38,9 @@ import weka.classifiers.trees.RandomForest;
 import weka.core.Attribute;
 import weka.core.Instance;
 import weka.core.Instances;
-import weka.core.ProtectedProperties;
 import weka.core.SparseInstance;
-import weka.core.converters.CSVLoader;
 import weka.core.converters.ConverterUtils;
 
-/**
- *
- * @author rohitgoyal
- */
 public class WekaClassifier {
 
     /**
@@ -151,13 +141,13 @@ public class WekaClassifier {
     public Instances arrayToDataset(List<Integer> fv) {
         ArrayList<Attribute> atts = new ArrayList<>();
         List<Instance> instances = new ArrayList<>();
-        int numDimensions = 744;
+        int numDimensions = fv.size();
         for (int dim = 0; dim < numDimensions; dim++) {
             
             if (dim == 0) {
                 instances.add(new SparseInstance(numDimensions));
             }
-            if(dim == 743){
+            if(dim == fv.size()){
                 List<String> values = new ArrayList<>();
                 values.add("0");
                 values.add("1");

@@ -35,17 +35,15 @@ def searchFileForAPIs(file):
 	pkg_dict = pickle.load(open("pkg_dict.file","r"))
 	temp_set = []
 	pkg_list = get_PKG_From_Dex(file)
-	#d, x = get_API_From_Dex_Testing(file) #MARIOS
+	d, x = get_API_From_Dex_Testing(file) #MARIOS
 	try:
 		for pkg in pkg_list:
 			it1 += 1
 			start2 = timer()
 			if pkg in pkg_dict:
 					it2 += 1
-					temp_set.append(get_API_From_Dex(file,pkg)) #ROHID 
-					#temp_set.append(get_API_From_Dex_Part_II(x,pkg)) #MARIOS
-					#f.write(str(len(temp_set)))
-					#f.write("*******\n"+str(type(temp_set[0][0]))+"\n"+str(temp_set)+"\n")
+					#temp_set.append(get_API_From_Dex(file,pkg)) #ROHID 
+					temp_set.append(get_API_From_Dex_Part_II(x,pkg)) #MARIOS
 			end2 = timer()
 			counter = (end2 - start2) + counter
 		end = timer();
