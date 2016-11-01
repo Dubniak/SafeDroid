@@ -1,0 +1,22 @@
+#Exclude secondary files , only used locally for test purposes
+
+FeatureExtractionServer/Intructions
+FeatureExtractionServer/classes/
+FeatureExtractionServer/classes1_2MB.dex
+FeatureExtractionServer/featV1.8-M
+FeatureExtractionServer/featV1.8-R
+FeatureExtractionServer/featV810-M
+FeatureExtractionServer/featV810-R
+FeatureExtractionServer/output/
+FeatureExtractionServer/temp_set
+FeatureExtractionServer/venv/
+FeatureExtractionServer/performance_measurments
+
+question
+
+Detector/classes1.dex
+Testing/*
+Detector/nbactions.xml
+Detector/target/classes/.netbeans_automatic_build
+Detector/target/test-classes/
+

@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package wekaclassifier;
 
 import java.io.File;
@@ -17,10 +12,6 @@ import java.util.TreeMap;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author rohitgoyal
- */
 public class FeatureList {
     List<String> featureList;
     List<Integer> featureCategoryList;
@@ -78,12 +69,12 @@ public class FeatureList {
    
     
     public void createDescriptionMap(){
-        descriptionMap.put(0, "Suspicious methods called");
-        descriptionMap.put(1, "Suspicious utility methods called");
-        descriptionMap.put(2, "Suspicious network activity");
-        descriptionMap.put(3, "Suspicious Ads related activity");
-        descriptionMap.put(4, "Retrieves personal or device information");
-        descriptionMap.put(5, "Suspicious system services activity");
+        descriptionMap.put(0, "Suspicious methods called\n");
+        descriptionMap.put(1, "Suspicious utility methods called\n");
+        descriptionMap.put(2, "Suspicious network activity\n");
+        descriptionMap.put(3, "Suspicious Ads related activity\n");
+        descriptionMap.put(4, "Retrieves personal or device information\n");
+        descriptionMap.put(5, "Suspicious system services activity\n");
     }
     
 }

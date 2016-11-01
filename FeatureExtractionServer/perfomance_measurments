@@ -1,0 +1,219 @@
+***********
+***********
+External for loop:927.
+If condition:90.
+get_PKG_From_Dex:11.4933 sec.
+get_API_From_Dex:11.3819 sec.
+getFeatureVectorForFile:11.5031 sec.
+server:11.6348 sec.
+***********
+External for loop:927.
+If condition:90.
+get_PKG_From_Dex:531.5558 sec.
+get_API_From_Dex:5.6242 sec.
+getFeatureVectorForFile:531.5657 sec.
+server:531.7003 sec.
+***********
+External for loop:927.
+If condition:90.
+get_PKG_From_Dex:535.9941 sec.
+get_API_From_Dex:5.8229 sec.
+getFeatureVectorForFile:536.0022 sec.
+server:536.1329 sec.
+***********
+External for loop:927.
+If condition:90.
+get_PKG_From_Dex:11.6356 sec.
+get_API_From_Dex:11.5179 sec.
+getFeatureVectorForFile:11.6452 sec.
+server:11.7778 sec.
+***********
+External for loop:1684.
+If condition:106.
+get_PKG_From_Dex:22.4961 sec.
+get_API_From_Dex:22.2554 sec.
+getFeatureVectorForFile:22.5126 sec.
+server:22.6599 sec.
+***********
+External for loop:1684.
+If condition:106.
+get_PKG_From_Dex:1189.4519 sec.
+get_API_From_Dex:10.5851 sec.
+getFeatureVectorForFile:1189.4691 sec.
+server:1189.6168 sec.
+***********
+External for loop:79.
+If condition:11.
+get_PKG_From_Dex:1.4957 sec.
+get_API_From_Dex:0.1745 sec.
+getFeatureVectorForFile:1.5173 sec.
+server:1.5430 sec.
+***********
+External for loop:79.
+If condition:11.
+get_PKG_From_Dex:1.4353 sec.
+get_API_From_Dex:0.1204 sec.
+getFeatureVectorForFile:1.4514 sec.
+server:1.4615 sec.
+***********
+External for loop:79.
+If condition:11.
+get_PKG_From_Dex:1.5337 sec.
+get_API_From_Dex:0.1786 sec.
+getFeatureVectorForFile:1.5512 sec.
+server:1.5733 sec.
+***********
+External for loop:79.
+If condition:11.
+get_PKG_From_Dex:1.4524 sec.
+get_API_From_Dex:0.1662 sec.
+getFeatureVectorForFile:1.4571 sec.
+server:1.5050 sec.
+***********
+External for loop:79.
+If condition:11.
+get_PKG_From_Dex:1.4856 sec.
+get_API_From_Dex:0.1615 sec.
+getFeatureVectorForFile:1.4984 sec.
+server:1.5039 sec.
+***********
+***********
+External for loop:1684.
+If condition:106.
+get_PKG_From_Dex:23.0554 sec.
+get_API_From_Dex:22.8139 sec.
+getFeatureVectorForFile:23.0751 sec.
+server:23.2349 sec.
+***********
+External for loop:1684.
+If condition:106.
+get_PKG_From_Dex:1231.9773 sec.
+get_API_From_Dex:11.1402 sec.
+getFeatureVectorForFile:1231.9972 sec.
+server:1232.1603 sec.
+***********
+External for loop:79.
+If condition:11.
+get_PKG_From_Dex:1.8755 sec.
+get_API_From_Dex:0.1208 sec.
+getFeatureVectorForFile:1.8845 sec.
+server:1.8938 sec.
+***********
+External for loop:79.
+If condition:11.
+get_PKG_From_Dex:1.4359 sec.
+get_API_From_Dex:0.1133 sec.
+getFeatureVectorForFile:1.4399 sec.
+server:1.4421 sec.
+***********
+External for loop:79.
+If condition:11.
+get_PKG_From_Dex:0.2357 sec.
+get_API_From_Dex:0.2325 sec.
+getFeatureVectorForFile:0.2393 sec.
+server:0.2418 sec.
+***********
+External for loop:79.
+If condition:11.
+get_PKG_From_Dex:0.2456 sec.
+get_API_From_Dex:0.2444 sec.
+getFeatureVectorForFile:0.2482 sec.
+server:0.2508 sec.
+***********
+External for loop:79.
+If condition:11.
+get_PKG_From_Dex:0.2339 sec.
+get_API_From_Dex:0.2327 sec.
+getFeatureVectorForFile:0.2366 sec.
+server:0.2389 sec.
+***********
+External for loop:79.
+If condition:11.
+get_PKG_From_Dex:0.2603 sec.
+get_API_From_Dex:0.2591 sec.
+getFeatureVectorForFile:0.2634 sec.
+server:0.2657 sec.
+***********
+External for loop:79.
+If condition:11.
+get_PKG_From_Dex:0.2244 sec.
+get_API_From_Dex:0.2231 sec.
+getFeatureVectorForFile:0.2271 sec.
+server:0.2294 sec.
+***********
+External for loop:79.
+If condition:11.
+get_PKG_From_Dex:0.2718 sec.
+get_API_From_Dex:0.2706 sec.
+getFeatureVectorForFile:0.2747 sec.
+server:0.2769 sec.
+***********
+External for loop:79.
+If condition:11.
+get_PKG_From_Dex:0.2294 sec.
+get_API_From_Dex:0.2280 sec.
+getFeatureVectorForFile:0.2321 sec.
+server:0.2345 sec.
+***********
+External for loop:79.
+If condition:11.
+get_PKG_From_Dex:0.2624 sec.
+get_API_From_Dex:0.2612 sec.
+getFeatureVectorForFile:0.2654 sec.
+server:0.2677 sec.
+***********
+External for loop:79.
+If condition:11.
+get_PKG_From_Dex:0.2211 sec.
+get_API_From_Dex:0.2199 sec.
+getFeatureVectorForFile:0.2238 sec.
+server:0.2260 sec.
+***********
+External for loop:1684.
+If condition:106.
+get_PKG_From_Dex:22.6542 sec.
+get_API_From_Dex:22.4217 sec.
+getFeatureVectorForFile:22.6711 sec.
+server:22.7756 sec.
+***********
+External for loop:79.
+If condition:11.
+get_PKG_From_Dex:0.2393 sec.
+get_API_From_Dex:0.2362 sec.
+getFeatureVectorForFile:0.2421 sec.
+server:0.2451 sec.
+***********
+External for loop:1684.
+If condition:106.
+get_PKG_From_Dex:23.7396 sec.
+get_API_From_Dex:23.5038 sec.
+getFeatureVectorForFile:23.7566 sec.
+server:23.8606 sec.
+***********
+External for loop:1684.
+If condition:106.
+get_PKG_From_Dex:23.3228 sec.
+get_API_From_Dex:23.0856 sec.
+getFeatureVectorForFile:23.3403 sec.
+server:23.4480 sec.
+***********
+External for loop:1341.
+If condition:107.
+get_PKG_From_Dex:16.2895 sec.
+get_API_From_Dex:16.1022 sec.
+getFeatureVectorForFile:16.3015 sec.
+server:16.3954 sec.
+***********
+External for loop:1341.
+If condition:107.
+get_PKG_From_Dex:16.4161 sec.
+get_API_From_Dex:16.2311 sec.
+getFeatureVectorForFile:16.4273 sec.
+server:16.5187 sec.
+***********
+External for loop:1684.
+If condition:106.
+get_PKG_From_Dex:22.8666 sec.
+get_API_From_Dex:22.6339 sec.
+getFeatureVectorForFile:22.8840 sec.
+server:22.9992 sec.

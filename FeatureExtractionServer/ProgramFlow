@@ -1,0 +1,15 @@
+server.py :	
+calls getFeauterVectorForFile for the requested file and saves the output to classes.dex
+
+gen_feature_vector.py:
+loads api_feauter_set.file, the one provided by the user, and calls searchFileForAPIs(file)
+searching procedure calls get_PKG_From_Dex(),get_API_From_Dex() from androwarn_main.py  
+
+androwarn_main.py:
+	get_PKG_From_Dex(dex) : calls Analyze(dex)
+				calls generate_Pkg_List(x)
+
+	get_API_From_Dex(dex,pkg) : calls AnalyzeDex(dex)
+				    calls generate_API_List(x,pkg)
+
+

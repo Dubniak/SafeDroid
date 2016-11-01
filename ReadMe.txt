@@ -1,8 +1,3 @@
-Dependencies : 
-Flask framework http://flask.pocoo.org/ 
-Python 
-
-
 1. cd into the FeatureExtraction directory. Start the python server with the command :
 python server.py runserver -d
 
@@ -38,3 +33,5 @@ kill -9 PID
 
 
 The API defined in (2) takes a Dex file as input and returns the feature categories that make an application malicious.
+
+

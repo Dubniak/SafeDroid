@@ -1,28 +1,14 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package wekaclassifier;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collection;
 import java.util.Collections;
-import java.util.Comparator;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Scanner;
-import java.util.TreeMap;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author rohitgoyal
- */
 public class Ranker {
     ArrayList<Integer> rankedFeatures;
     
@@ -41,9 +27,9 @@ public class Ranker {
             }
             Collections.sort(temp);
             List<Integer> rankedFeatureVector = new ArrayList<>();
-            for(Integer feature: temp){
+            for (int feature=0; feature<temp.size(); feature++)
                 rankedFeatureVector.add(rankedFeatures.get(feature));
-            }
+            
             return rankedFeatureVector;
             
         } catch (FileNotFoundException ex) {
@@ -51,5 +37,4 @@ public class Ranker {
         }
         return null;
     }
-    
 }
